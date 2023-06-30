@@ -2,7 +2,8 @@
  ### Description.
  A tool to get motivational quotes from history, spoken by great personalities for free.  
    
- + **Api_credit:** [Type Fit](https://type.fit/)  
+ + **Api_credit:** [Type Fit](https://type.fit/)
+ + **Reference:** [Motivator](https://github.com/desouvik/Motivator)
 
 ### Info.
  + **Version:** 0.0.0  
@@ -14,4 +15,4 @@
      + I shall restrict the service once per day to enhance the effect of each quote in your life.
     
 ### Note for users.
-> I shall keep updating and fixing the tool *once a week*. 
+> I shall keep updating and fixing the tool *once a week*.
