@@ -1,4 +1,5 @@
 # Motivator
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5a4168d4-4a31-40a1-8d59-d6e3e4e96a23/deploy-status)](https://app.netlify.com/sites/yourmotivator/deploys)
  ### Description.
   A tool to get motivational quotes from history, spoken by great personalities for free.  
   + **Site:** <https://yourmotivator.netlify.app/>  
