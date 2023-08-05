@@ -11,9 +11,9 @@
  + **Feature:** 
      + Generate quote anytime  
      + Refresh to use this service again and again  
-     + 1.5K\+ quotes  available  
+     + The number of quotes reduced by the API owner. 
  + **Future update:**  
-     + I shall restrict the service once per day to enhance the effect of each quote in your life.
+     + I shall restrict the service once daily to enhance each quote's effect on your life.
     
 ### Note for users.
 > I shall keep updating and fixing the tool *once a week*.
