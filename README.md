@@ -14,7 +14,7 @@
      + Limited Quotes for Now(The number of quotes reduced by the API owner). 
  + **Future update:**  
      + I shall restrict the service once daily to enhance each quote's effect on your life.
-     + I shall develop my own API to avoid any disruption in future from third arty, that will make the web app more reliable and independent.
+     + I shall develop my own API to avoid any disruption in future from third parties, which will make the web app more reliable and independent.
     
 ### Note for users.
 > I shall keep updating and fixing the tool *once a week*.
