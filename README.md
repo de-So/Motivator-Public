@@ -4,7 +4,7 @@
   A tool to get motivational quotes from history, spoken by great personalities for free.  
   + **Site:** <https://yourmotivator.netlify.app/>  
   + **Api_credit:** [Type Fit](https://type.fit/)
-  + **Repository:** [Motivator](https://github.com/desouvik/Motivator) (private)
+  + **Repository:** [Motivator](https://github.com/desouvik/Motivator) 
 
 ### Info.
  + **Version:** 0.0.0  
